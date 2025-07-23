@@ -27,4 +27,4 @@ It can translate from one language to another using Google Translate API or Hugg
 
 ---
 
-💖 Created with love by Swati Yallurkar ✨
+💖 Created with love by Swati ✨
